@@ -1,2 +1,6 @@
 # Pytorch_Tutorial
-Gentle introduction to PyTorch 
+
+
+A gentle introduction to PyTorch. Personal notes 
+
+
